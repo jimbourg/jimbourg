@@ -2,7 +2,7 @@
 
 ## 🎓 École 42 Belgium | ☁️ AWS Certified | 💼 Career Changer
 
-After **10 years in finance** as a Trading Desk Officer, I made a deliberate career shift into **software development**. I bring analytical rigor, attention to detail, and a deep understanding of complex systems—now applied to **systems programming** and **cloud architecture**.
+After **10 years in finance** as a Trading Desk Officer, I made a deliberate career shift into **software development**. I bring analytical rigor, attention to detail, and a deep understanding of complex systems.
 
 ---
 
