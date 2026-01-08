@@ -9,10 +9,10 @@ After **10 years in finance** as a Trading Desk Officer, I made a deliberate car
 ## 🏆 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/TON_BADGE_SOLUTIONS_ARCHITECT" target="_blank">
+  <a href="https://www.credly.com/badges/61234387-46f6-42db-808d-0048cc1bcdef/public_url" target="_blank">
     <img src="img/aws-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150"/>
   </a>
-  <a href="https://www.credly.com/badges/TON_BADGE_CLOUD_PRACTITIONER" target="_blank">
+  <a href="https://www.credly.com/badges/72065cdd-fc5a-4b90-ae30-7d3a151736c6/public_url" target="_blank">
     <img src="img/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150"/>
   </a>
 </p>
