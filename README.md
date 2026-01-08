@@ -8,10 +8,20 @@ After **10 years in finance** as a Trading Desk Officer, I made a deliberate car
 
 ## 🏆 Certifications
 
-[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+<p align="center">
+  <a href="https://www.credly.com/badges/TON_BADGE_SOLUTIONS_ARCHITECT" target="_blank">
+    <img src="img/aws-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/TON_BADGE_CLOUD_PRACTITIONER" target="_blank">
+    <img src="img/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150"/>
+  </a>
+</p>
 
-**Certified:** January 2025
+<p align="center">
+  <strong>AWS Certified Solutions Architect - Associate</strong> | <strong>AWS Certified Cloud Practitioner</strong>
+  <br>
+  <em>Certified: January 2025</em>
+</p>
 
 ---
 
@@ -193,5 +203,3 @@ Complete web application: real-time Pong game, user authentication, chat, and to
 **Stack:** `TypeScript` • `Node.js` • `Fastify` • `WebSockets` • `PostgreSQL`
 
 ---
-
-## 📊 Journey Overview
