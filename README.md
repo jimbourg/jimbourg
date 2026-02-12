@@ -8,25 +8,44 @@ After **10 years in finance** as a Trading Desk Officer, I made a deliberate car
 
 ## Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/72065cdd-fc5a-4b90-ae30-7d3a151736c6/public_url" target="_blank">
-    <img src="img/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/61234387-46f6-42db-808d-0048cc1bcdef/public_url" target="_blank">
-    <img src="img/aws-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/8d8c23b7-9edb-4ab3-aed8-a54c4f93920b/public_url" target="_blank">
-    <img src="img/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="150"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>AWS Certified Cloud Practitioner</strong> | <strong> AWS Certified Solutions Architect - Associate</strong> | <strong>AWS Certified Developer - Associate</strong>
-  <br>
-  <em>Certified: January 2025</em>
-</p>
+<table>
+<tr>
+<td width="120">
+<a href="https://www.credly.com/badges/72065cdd-fc5a-4b90-ae30-7d3a151736c6/public_url" target="_blank">
+<img src="img/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="100"/>
+</a>
+</td>
+<td>
+<strong>AWS Certified Cloud Practitioner</strong><br>
+<em>Issued: January 2025</em><br>
+Foundational knowledge of AWS Cloud, services, and terminology
+</td>
+</tr>
+<tr>
+<td width="120">
+<a href="https://www.credly.com/badges/61234387-46f6-42db-808d-0048cc1bcdef/public_url" target="_blank">
+<img src="img/aws-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="100"/>
+</a>
+</td>
+<td>
+<strong>AWS Certified Solutions Architect - Associate</strong><br>
+<em>Issued: January 2025</em><br>
+Designing distributed systems and architectures on AWS
+</td>
+</tr>
+<tr>
+<td width="120">
+<a href="https://www.credly.com/badges/8d8c23b7-9edb-4ab3-aed8-a54c4f93920b/public_url" target="_blank">
+<img src="img/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="100"/>
+</a>
+</td>
+<td>
+<strong>AWS Certified Developer - Associate</strong><br>
+<em>Issued: February 2025</em><br>
+Developing and maintaining applications on AWS
+</td>
+</tr>
+</table>
 
 ---
 
