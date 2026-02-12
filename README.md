@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jim!
+# Hi, I'm Jim!
 
 ## 🎓 École 42 Belgium | ☁️ AWS Certified | 💼 Career Changer
 
@@ -6,7 +6,7 @@ After **10 years in finance** as a Trading Desk Officer, I made a deliberate car
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/61234387-46f6-42db-808d-0048cc1bcdef/public_url" target="_blank">
@@ -14,6 +14,9 @@ After **10 years in finance** as a Trading Desk Officer, I made a deliberate car
   </a>
   <a href="https://www.credly.com/badges/72065cdd-fc5a-4b90-ae30-7d3a151736c6/public_url" target="_blank">
     <img src="img/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/8d8c23b7-9edb-4ab3-aed8-a54c4f93920b/public_url" target="_blank">
+    <img src="img/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="150"/>
   </a>
 </p>
 
@@ -25,7 +28,7 @@ After **10 years in finance** as a Trading Desk Officer, I made a deliberate car
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,7 +55,7 @@ After **10 years in finance** as a Trading Desk Officer, I made a deliberate car
 
 ---
 
-## 🎯 École 42 - Core Curriculum Completed ✅
+## École 42 - Core Curriculum Completed ✅
 
 ### **Phase 1: Fundamentals**
 
